@@ -2,10 +2,6 @@
 	"name": "Save PrettyColours",
 	"version": "0.1",
 	"description": "Saves hex codes from Google Reader for parkr.me/colours/",
-	"browser_action": {
-		"default_icon": "images/icon.png",
-		"default_title": "Save PrettyColours"
-	},
  	"minimum_chrome_version": "14.0.835.202",
 	"background_page": "background.html",
 	"content_scripts": [
